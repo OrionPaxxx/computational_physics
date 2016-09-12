@@ -1,7 +1,7 @@
 ### homework list for computational_physics
 ***
-
-- [x] **exsercise_02:TBD**  
+- [x] **exsercise_01:TBD**  
+- [ ] **exsercise_02:TBD**  
 - [ ] **exsercise_03:TBD**   
 - [ ] **exsercise_05:TBD**   
 - [ ] **exsercise_06:TBD**  
