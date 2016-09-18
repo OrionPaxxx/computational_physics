@@ -1,20 +1,20 @@
 ### homework list for computational_physics
 ***
-- [x] **exsercise_01:TBD**  
-- [ ] **exsercise_02:TBD**  
-- [ ] **exsercise_03:TBD**   
-- [ ] **exsercise_05:TBD**   
-- [ ] **exsercise_06:TBD**  
-- [ ] **exsercise_07:TBD**   
-- [ ] **exsercise_08:TBD**   
-- [ ] **exsercise_09:TBD**   
-- [ ] **exsercise_10:TBD**   
-- [ ] **exsercise_12:TBD**   
-- [ ] **exsercise_13:TBD**   
-- [ ] **exsercise_14:TBD**   
-- [ ] **exsercise_15:TBD**   
-- [ ] **exsercise_16:TBD**   
-- [ ] **exsercise_17:TBD**   
-- [ ] **exsercise_18:TBD**   
-- [ ] **exsercise_19:TBD**   
-- [ ] **exsercise_20:TBD**
+- [x] **exercise_01:TBD**  
+- [ ] **exercise_02:TBD**  
+- [ ] **exercise_03:TBD**   
+- [ ] **exercise_05:TBD**   
+- [ ] **exercise_06:TBD**  
+- [ ] **exercise_07:TBD**   
+- [ ] **exercise_08:TBD**   
+- [ ] **exercise_09:TBD**   
+- [ ] **exercise_10:TBD**   
+- [ ] **exercise_12:TBD**   
+- [ ] **exercise_13:TBD**   
+- [ ] **exercise_14:TBD**   
+- [ ] **exercise_15:TBD**   
+- [ ] **exercise_16:TBD**   
+- [ ] **exercise_17:TBD**   
+- [ ] **exercise_18:TBD**   
+- [ ] **exercise_19:TBD**   
+- [ ] **exercise_20:TBD**
