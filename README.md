@@ -3,7 +3,7 @@
 ***
 - [x] **exercise_01:****write_a_README**  
 - [x] **exercise_02:****[print_my_name](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_02.py)**    
-- [x] **exercise_03:****[move_my_name+swing_stick](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/exercise_03.md)**
+- [x] **exercise_03:****[move_and_swing_my_name](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/exercise_03.md)**
 - [ ] **exercise_07:****TBD**   
 - [ ] **exercise_08:****TBD**   
 - [ ] **exercise_09:****TBD**   
