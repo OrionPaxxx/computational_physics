@@ -1,8 +1,8 @@
 ##move_my_name##
 ***
-*1.a stupid way
+###*1.a stupid way  
 [click here to check the code](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/--move_my_name_V1.py)  
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/--move_my_name_V1_result.gif)  
-*2.a simpler way but not fancy enough
+###*2.a simpler way but not fancy enough  
 [click here to check the code](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/--move_my_name_V2.py)  
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_03/--move_my_name_V2_result.gif)
