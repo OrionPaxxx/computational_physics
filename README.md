@@ -2,7 +2,7 @@
 ***
 - [x] **exercise_01:TBD**  
 - [ ] **exercise_02:TBD**  
-- [ ] **exercise_03:TBD**   
+- [ ] **exercise_03:[move_my_name+swing_stick]()   
 - [ ] **exercise_05:TBD**   
 - [ ] **exercise_06:TBD**  
 - [ ] **exercise_07:TBD**   
