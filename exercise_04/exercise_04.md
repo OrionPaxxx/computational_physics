@@ -27,8 +27,8 @@ is applied to test whether or not the result is reasonable.**
 **1.chosing a proper mathematical method**    
 **2.a smaller time_of_step could make a more accurate result**
 ##acknowledgement
-**I did all of these on my own
-thank to Mr.cai[](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)  **  
+**I did all of these on my own**    
+**thank to Mr.cai[](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)  **  
 
 
 
