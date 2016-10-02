@@ -24,7 +24,7 @@ is applied to test whether or not the result is reasonable.**
 **here is the screemshoot of the result**       
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----result_of_test.png)     
 ##conclusion
-**1.chosing a proper mathematical method**    
+**1.Euler's method is an efficacious mathematical method**    
 **2.a smaller time_of_step could make a more accurate result**
 ##acknowledgement
 **I did all of these on my own**    
