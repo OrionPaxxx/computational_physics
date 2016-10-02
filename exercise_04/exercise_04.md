@@ -9,22 +9,26 @@ class and object skills of python,matplotlib and Euler's method of math,all thes
 work out a satisfying solution to this kind of problem.
 We can practice the methods we learned by program to solve some similar problems,problem_1.5 is one of them.**
 ##main body
-###1.solution to problem_1.5
 **[here is the code](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----problem_1.5_of_computational_physics.py).
 the code can be divided into two parts,part_01 and part_02.part01 could reach a numerical result to the problem,part02
 is applied to test whether or not the result is reasonable.**
-####**part_01:numerical result**  
+###**part_01:numerical result**  
 **here is the screemshot of this part of code**     
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----code_part_01.png)    
 **here is the screemshoot of the result**       
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----result.png)  
 **the output data is store as a txt document.If youwant to check it,[click here](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----data_of_problem1.5.txt  )**          
-####**part_02:test the program**    
+###**part_02:test the program**    
 **here is the screemshot of this part of code**    
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----code_part_02.png)    
 **here is the screemshoot of the result**       
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----result_of_test.png)     
 ##conclusion
+**1.chosing a proper mathematical method**    
+**2.a smaller time_of_step could make a more accurate result**
+##acknowledgement
+**I did all of these on my own
+thank to Mr.cai[](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)  **  
 
 
 
