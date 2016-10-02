@@ -9,7 +9,7 @@ class and object skills of python,matplotlib and Euler's method of math,all thes
 work out a satisfying solution to this kind of problem.
 We can practice the methods we learned by program to solve some similar problems,problem_1.5 is one of them.**
 ##main body
-**[here is the code](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----problem_1.5_of_computational_physics.py).
+**[click her to check the code](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/-----problem_1.5_of_computational_physics.py).
 the code can be divided into two parts,part_01 and part_02.part01 could reach a numerical result to the problem,part02
 is applied to test whether or not the result is reasonable.**
 ###**part_01:numerical result**  
