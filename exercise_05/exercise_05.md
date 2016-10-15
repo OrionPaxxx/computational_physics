@@ -2,10 +2,10 @@
 ***
 ##@.abstract
 ######this is programmed to reach a numerical solution to problem2.9 of Nicholas J.Giordano's computational physics。
-the eessential point of this problem is：
-      1.include both air drag and the reduced air density at high altitudes.
-      2.perform the calculation for different firing angles.
-      3.determine the value of the angle that gives the maximum range.
+**the eessential points of this problem is：    
+      1.include both air drag and the reduced air density at high altitudes.    
+      2.perform the calculation for different firing angles.    
+      3.determine the value of the angle that gives the maximum range.**    
 ##@.background
 ###1.dynamic equations
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/___1.png)
