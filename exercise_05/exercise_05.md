@@ -28,13 +28,13 @@ the py_document has been uploaded,click [here](https://github.com/OrionPaxxx/com
      
 ______________________________________________
       
-      there are 88 trajectories which firing angles are 1 degree,2 degrees,......,88degrees.
+      **there are 88 trajectories which firing angles are 1 degree,2 degrees,......,88degrees.**
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/____test_result_NO2.png)
 ###4.determine the value of the angle that gives the maximum range.
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/____pic_03.png)
      
 ______________________________________________
       
-**this program can output a diagram that shows how ranges varies with firing angles** 
+     **this program can output a diagram that shows how ranges varies with firing angles** 
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/____test_result_NO3.png)
 ##conclusions
