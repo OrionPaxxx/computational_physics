@@ -38,3 +38,8 @@ ______________________________________________
      this program can print the maximum rang and its firing angle and output a diagram that shows how ranges varies with firing angles 
 ![](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/____test_result_NO3.png)
 ##@.conclusions
+1.
+2.
+3.
+##@.acknowledgement
+thank to Mr.cai's [teaching document](https://www.evernote.com/shard/s140/sh/26f85380-ee6c-4b4b-b33f-6871804d91ff/fb8cc702cb0e8ed7fafb50b2de4596ca)
