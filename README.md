@@ -7,8 +7,8 @@
 - [x] **exercise_04:****[chapter1_problem1.5:the_dacay_of_two_kinds_particles](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_04/exercise_04.md)**   
 - [x] **exercise_05:****[chapter2_problem2.9](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/exercise_05.md)**   
 - [x] **exercise_06:****[problem2.10](https://www.zybuluo.com/OrionPaxxx/note/541872)**  
-- [ ] **exercise_07:****[problemm3.13](https://www.zybuluo.com/OrionPaxxx/note/550848)**   
-- [ ] **exercise_08:****TBD**   
+- [x] **exercise_07:****[problemm3.13](https://www.zybuluo.com/OrionPaxxx/note/550848)**   
+- [ ] **exercise_08:****[problem3.20](https://www.zybuluo.com/OrionPaxxx/note/565934)**   
 - [ ] **exercise_09:****TBD**   
 - [ ] **exercise_10:****TBD**   
 - [ ] **exercise_11:****TBD**   
