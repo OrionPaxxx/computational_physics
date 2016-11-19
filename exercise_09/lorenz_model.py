@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt  
+from mpl_toolkits.mplot3d import Axes3D
 import pylab as pl
 class lorenz_model:
     def __init__(self,initial_x=1,initial_y=0,initial_z=0,r=24,b=8/3,delta=10,time_step=0.0001,total_time=50):
