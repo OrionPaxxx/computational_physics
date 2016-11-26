@@ -48,7 +48,7 @@ class solar:
             ax.plot(a.x, a.y,label=names[i]) 
         plt.legend()
         plt.show()
-'''
+
 #show the whole solar system  
 a=solar()
 a.run()
@@ -82,7 +82,7 @@ class precession(solar):
         print(omegas)
 test=precession()
 test.m_run()
-'''
+
 #线性拟合，列表_omegas中的数据为test的运行结果
 _alphas=[0,0.0001,0.0004,0.003,0.0035,0.004,0.006,0.007]
 _omegas=[0,2.1360957657207646,3.79859101235552, 31.586827548752012, 35.67506491602629,\
