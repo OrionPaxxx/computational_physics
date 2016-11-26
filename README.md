@@ -10,7 +10,7 @@
 - [x] **exercise_07:****[problemm3.13](https://www.zybuluo.com/OrionPaxxx/note/550848)**   
 - [ ] **exercise_08:****[problem3.20](https://www.zybuluo.com/OrionPaxxx/note/565934)**   
 - [ ] **exercise_09:****[lorenz model and billiard problem](https://www.zybuluo.com/OrionPaxxx/note/570137)**   
-- [ ] **exercise_10:****solar system**   
+- [ ] **exercise_10:****[solar system](https://www.zybuluo.com/OrionPaxxx/note/578593)**   
 - [ ] **exercise_11:****TBD**   
 - [ ] **exercise_12:****TBD**   
 - [ ] **exercise_13:****TBD**   
