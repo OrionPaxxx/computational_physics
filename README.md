@@ -8,8 +8,8 @@
 - [x] **exercise_05:****[chapter2_problem2.9](https://github.com/OrionPaxxx/computational_physics_N2014301020039/blob/master/exercise_05/exercise_05.md)**   
 - [x] **exercise_06:****[problem2.10](https://www.zybuluo.com/OrionPaxxx/note/541872)**  
 - [x] **exercise_07:****[problemm3.13](https://www.zybuluo.com/OrionPaxxx/note/550848)**   
-- [ ] **exercise_08:****[problem3.20](https://www.zybuluo.com/OrionPaxxx/note/565934)**   
-- [ ] **exercise_09:****[lorenz model and billiard problem](https://www.zybuluo.com/OrionPaxxx/note/570137)**   
+- [x] **exercise_08:****[problem3.20](https://www.zybuluo.com/OrionPaxxx/note/565934)**   
+- [x] **exercise_09:****[lorenz model and billiard problem](https://www.zybuluo.com/OrionPaxxx/note/570137)**   
 - [ ] **exercise_10:****[solar system](https://www.zybuluo.com/OrionPaxxx/note/578593)**   
 - [ ] **exercise_11:****TBD**   
 - [ ] **exercise_12:****TBD**   
