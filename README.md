@@ -12,7 +12,7 @@
 - [x] **exercise_09:****[lorenz model and billiard problem](https://www.zybuluo.com/OrionPaxxx/note/570137)**   
 - [x] **exercise_10:****[solar system](https://www.zybuluo.com/OrionPaxxx/note/578593)**   
 - [x] **exercise_11:****[Hyperion](https://www.zybuluo.com/OrionPaxxx/note/588876)**   
-- [ ] **exercise_12:****TBD**   
+- [ ] **exercise_12:****[electric potentials and fields](https://www.zybuluo.com/OrionPaxxx/note/597638)**   
 - [ ] **exercise_13:****TBD**   
 - [ ] **exercise_14:****TBD**   
 - [ ] **exercise_15:****TBD**   
