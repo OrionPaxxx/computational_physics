@@ -1,3 +1,4 @@
+author：秦大粤
 import random
 import matplotlib.pyplot as plt
 class random_walks:
