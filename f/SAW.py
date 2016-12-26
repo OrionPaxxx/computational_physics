@@ -1,3 +1,4 @@
+#author:秦大粤
 import matplotlib.pyplot as plt
 import random
 class SAW:
