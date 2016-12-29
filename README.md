@@ -14,6 +14,4 @@
 - [x] **exercise_11:****[Hyperion](https://www.zybuluo.com/OrionPaxxx/note/588876)**   
 - [x] **exercise_12:****[electric potentials and fields](https://www.zybuluo.com/OrionPaxxx/note/597638)**   
 - [x] **exercise_13:****[waves](https://www.zybuluo.com/OrionPaxxx/note/603514)** 
-- [ ] **exercise_14:****TBD**   
-- [ ] **exercise_15:****TBD**   
-- [ ] **exercise_16:****TBD**
+- [x] **final:****[random system](https://www.zybuluo.com/OrionPaxxx/note/611551)**   
