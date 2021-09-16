@@ -1,5 +1,5 @@
-#exercise_04
-------------------------------------*by 秦大粤【2014301020039】*
+# exercise_04
+ 
 ***
 ##abstract
 **this is a numberical solution of problem_1.5 of Nicholas J. Giordano's computational physics**
