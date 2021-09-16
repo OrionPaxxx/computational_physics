@@ -1,5 +1,5 @@
 #excercise_05:chapter2_problem2.9
------------------------------------------------------ original by 秦大粤【2014301020039】
+---------------------------------------------
 ***
 ##@.abstract
 ######this is programmed to reach a numerical solution to problem2.9 of Nicholas J.Giordano's computational physics。
